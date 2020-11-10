@@ -1,0 +1,11 @@
+.form {
+   display: flex;
+   margin-bottom: 1rem;
+}
+
+input:nth-child(1) {
+   flex: 1;
+   border: none;
+   outline: none;
+   border-bottom: 1px solid #ccc;
+}

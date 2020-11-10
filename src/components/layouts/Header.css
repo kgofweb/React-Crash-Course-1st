@@ -1,0 +1,32 @@
+.header {
+   height: 8vh;
+   line-height: 8vh;
+   background: #34495e;
+   color: #FFF;
+   margin-bottom: 1rem;
+}
+
+li {
+   list-style: none;
+}
+
+a {
+   color: #FFF;
+   text-decoration: none;
+   font-weight: 600;
+}
+
+.main-nav {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+
+.main-menu {
+   display: flex;
+   align-items: center;
+}
+
+.main-menu > .link {
+   padding-left: 25px;
+}
